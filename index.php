@@ -3,7 +3,7 @@
 
 <?php
 // Create an array of messages
-$messages = array("Thank you for clicking the button!", "Thanks for your interest!", "Glad you enjoyed the website!");
+$messages = array("Thank you for clicking the button....", "Thanks for your interest!", "Glad you enjoyed the website!");
 
 // Check if the "click" variable is set in the POST data
 if (isset($_POST['click'])) {
